@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#**Intercompartive analysis of Pliocene model Temperature variables**
-## Header 2
-### Header 3
+**Intercompartive analysis of Pliocene model Temperature variables**
+Alia Wofford
+Course Name- Clim 680
 
 - Bulleted
 - List
