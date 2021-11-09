@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/aliawofford1/aliawofford1.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Compartive analysis of Pliocene Models Investigating Variations In Global Mean Temperature 
+# Comparative Analysis of Pliocene Models Investigating Variations In Global Mean Temperature  
 # Alia Wofford
 # Introduction
 My datasets I chose for my CLIM680 project are the the Pliocene model and control experiments from the Pliocene Model Intercomparison Project (PLIOMP). The purpose of this study is to do a multi model comparative analysis study of Pliocene models by analyzing the changes in the global mean temperatures between models. Specifically, I am using the upper ocean temperatures and surface temperature variables in the various Pliocene experiments and control model simulations to make this comparison. The overaching goal of this study is conduct a model-data comparison with compiled proxy data to reconstuct the oceanic warming patterns seen in the Pliocene time period.
