@@ -12,16 +12,16 @@ My datasets I chose for my CLIM680 project are the the Pliocene model and contro
 
 # Data
 The following are datasets that are being used in my project:
--CCSM4 (CESM with CAM4 atmosphere)
--CESM 1.2 (CESM with CAM5 atmosphere)
--CESM2 (CESM with CAM6 atmosphere)
--COSMOS
--EC-EARTH 3.3 
+-CCSM4 (CESM with CAM4 atmosphere) + CONTROL
+-CESM 1.2 (CESM with CAM5 atmosphere) + CONTROL
+-CESM2 (CESM with CAM6 atmosphere)+ CONTROL
+-COSMOS + CONTROL
+-EC-EARTH 3.3 + CONTROL
 
-Each model experiment ran for a total of 100 years. In my dataset there are three different CCSM/CESM models code versions  all of which model configurations are  described in Ran et al., 2020. In all POP ocean datasets has been regridded to a regular lat-lon grid to make comparison of models more consistent.
 
 ### PLIOCENCE DATA CALCULATION 
 Annual means files from both ocean temperature (POP) and land temperature (CAM) have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for each model as well as anomalies to determine the variations in temperature between models during the Pliocene.
+Each model experiment ran for a total of 100 years. In my dataset there are three different CCSM/CESM models code versions  all of which model configurations are  described in Ran et al., 2020. In all POP ocean datasets has been regridded to a regular lat-lon grid to make comparison of models more consistent with the (CAM) surface temperature datasets. In addition all data files were converted to Kelvin. To calculate the anomly for the global mean temperatures the control experiment datasets for all models were includeded in our data. 
 # Results and Analysis
 ### Project Notebook via Github
 ### Conda Environment 
