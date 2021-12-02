@@ -66,7 +66,7 @@ The environment.yml file is shown to define the environment needed to run all co
 ![12](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Multi_model_ann_mean_SurTemp.png?raw=true)
 
 
-![13](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/R_Array_ModelMean_Surface Temperature.png?raw=true)
+![13](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/R_Array_ModelMean_Surface_Temperature.png?raw=true)
 
 
 ![14](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Regression_Model_Mean_SurfaceTemperature_Change.png?raw=true)
