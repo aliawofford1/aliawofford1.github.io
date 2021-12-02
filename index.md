@@ -19,6 +19,14 @@ The following are datasets that are being used in my project:
 -CESM2 (CESM with CAM6 atmosphere)+ CONTROL
 -COSMOS + CONTROL
 -EC-EARTH 3.3 + CONTROL
+-
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
 
 
 ### PLIOCENCE DATA CALCULATION 
