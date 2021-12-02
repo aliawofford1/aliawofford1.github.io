@@ -27,6 +27,14 @@ Each model experiment ran for a total of 100 years. In my dataset there are thre
 ### Conda Environment 
 The environment.yml file is shown to define the environment needed to run all code successfully. 
 ### Figures
+
+
+
+
+
+
+
+
 The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
 # Summary
 
