@@ -29,7 +29,7 @@ The environment.yml file is shown to define the environment needed to run all co
 ### Figures
 
 
-![Image 1](../../../aliawofford1.github.io/docs/assets/12_Panel_Monthly_GlobalMean_Control.png)
+![alt text](https://github.com/aliawofford1]/aliawofford1.github.io]/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Control.png?raw=true)
 
 
 
