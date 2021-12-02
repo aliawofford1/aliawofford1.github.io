@@ -73,33 +73,28 @@ Figure 6 shows the global mean surface temperature change between models. The gr
 Figure 7 shows the composite global mean surface temperatures for experiments with a temperature change greater than 3◦. In general the figure showed warmer temperature changes in the polar regions which specifically in the northern and southern hemisphere.
 
 ![8](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_low.png?raw=true)
-Figure 8 shows the composite global mean surface temperatures for experiments with a temperature change less than 3◦. In general the figure showed that wwarmer temperature changes were more geographically isolated in the polar regions. Specifically the warmer temperatures were seen to be the strongest over the Greenland areas in the northern hemisphere and over the Antartic polar regions in the southern hemisphere.
+Figure 8 shows the composite global mean surface temperatures for experiments with a temperature change less than 3◦. In general the figure showed that warmer temperature changes were more geographically isolated in the polar regions. Specifically the warmer temperatures were seen to be the strongest over the Greenland areas in the northern hemisphere and over the Antartic polar regions in the southern hemisphere.
 
 
 ![9](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_diff.png?raw=true)
 
-
+Figure 9 shows the composite global mean surface temperature difference . In general the figure showed variablility in te models as it showed where models agree The temperature change showed that the global mean temperatures for the modes are strongest over the Greenland are in the northern hemisphere and that less models.
 
 ![10](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Regression_Model_Mean_SurfaceTemperature_Change.png?raw=true)
-Figure 8 shows the regression of the model mean surface temperature change. A positve regression 
+Figure 10 shows the regression of the model mean surface temperature change. The warmer temperatures are seen to be stronger over the Eurasia regions and in Anarctic where as the composites are showing more warming in the northern hemisphere .
 
 
 ![11](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Correlation_between_ModelMean_SurfaceTemperatures.png?raw=true)
-
-
-![12](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Correlation_ModelMean_SurfaceTemperatures_Difference.png?raw=true)
-
-
-
-![13](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/R_Array_ModelMean_Surface_Temperature.png?raw=true)
+Figure 11 shows the correlation between the Model Mean surface temperatures. Contrary to the regression the correlation shows strong warm temperatures coming more so from the tropics in the eastern and western warm pool tongue.
 
 
 
-![14](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_diff_weight.png?raw=true)
+![12](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_diff_weight.png?raw=true)
 
 
 The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
 # Summary
+The study showed that the models did match the findings of the Haywood paper in regards to the temperature change. Warm temperature changes were seen to be stronger in the polar regions of the northern and southern hemisphere. However with our correlation we were seeing temperature difference that was coming from the tropics in the eastern and western warm pool tongue. This study also provide insight on the dynamics of determing how much of an influence the eastern and westen warm pool tongue could be a significant contributing factor to warming in the Pliocene history. 
 
 
 
