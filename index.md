@@ -13,24 +13,30 @@ My datasets I chose for my CLIM680 project are the the Pliocene model and contro
 
 
 # Data
-The following are datasets that are being used in my project:
--CCSM4 (CESM with CAM4 atmosphere) + CONTROL
--CESM 1.2 (CESM with CAM5 atmosphere) + CONTROL
--CESM2 (CESM with CAM6 atmosphere)+ CONTROL
--COSMOS + CONTROL
--EC-EARTH 3.3 + CONTROL
--
+A total of 14 models were analyzed in this study. Each model provided a Pliocence experiment and a control experiment. Only the surface temperature variables were included and analyzed in this project.The following are the datasets that are being used in my project.
 
-| Command | Description |
+| Model Name|
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| CCSM4  |
+| CESM 1.2 | 
+|CESM2 |
+|COSMOS|
+|EC-EARTH|
+|EC-EARTH 3.3|
+|IPSLCM6_LR|
+|IPSLCM6_LR_2.1|
+|UoFT|
+|Utrecht|
+|MIROC4|
+|LEEDS|
+|MRI_CGCM2_3|
+|NorESM_L|
 
 
 
 
 ### PLIOCENCE DATA CALCULATION 
-Annual means files from both ocean temperature (POP) and land temperature (CAM) have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for each model as well as anomalies to determine the variations in temperature between models during the Pliocene.
+Annual means files from surface temperature (CAM) have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for each model as well as anomalies to determine the variations in temperature between models during the Pliocene.
 Each model experiment ran for a total of 100 years. In my dataset there are three different CCSM/CESM models code versions  all of which model configurations are  described in Ran et al., 2020. In all POP ocean datasets has been regridded to a regular lat-lon grid to make comparison of models more consistent with the (CAM) surface temperature datasets. In addition all data files were converted to Kelvin. To calculate the anomly for the global mean temperatures the control experiment datasets for all models were includeded in our data. 
 # Results and Analysis
 ### Project Notebook via Github
