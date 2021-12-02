@@ -1,1 +1,6 @@
 theme: jekyll-theme-modernist
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
