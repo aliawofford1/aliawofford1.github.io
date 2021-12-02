@@ -29,9 +29,47 @@ The environment.yml file is shown to define the environment needed to run all co
 ### Figures
 
 
-![alt text](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Control.png?raw=true)
+
+![1](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Control.png?raw=true)
 
 
+![2](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Difference.png?raw=true)
+
+
+![3](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Pliocene.png?raw=true)
+
+
+![4](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_diff.png?raw=true)
+
+
+![5](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_diff_weight.png?raw=true)
+
+
+![6](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_high.png?raw=true)
+
+
+![7](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_low.png?raw=true)
+
+
+![8](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Correlation_between_ModelMean_SurfaceTemperatures.png?raw=true)
+
+
+![9](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Correlation_ModelMean_SurfaceTemperatures_Difference.png?raw=true)
+
+
+![10](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Global_Mean_SAT_SCATTER.png?raw=true)
+
+
+![11](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Global_Mean_tempchange_scatter.png?raw=true)
+
+
+![12](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Multi_model_ann_mean_SurTemp.png?raw=true)
+
+
+![13](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/R_Array_ModelMean_Surface Temperature.png?raw=true)
+
+
+![14](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Regression_Model_Mean_SurfaceTemperature_Change.png?raw=true)
 
 
 
