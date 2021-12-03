@@ -35,9 +35,7 @@ A total of 14 models were analyzed in this study. Each model provided a Pliocenc
 
 
 ### PLIOCENCE DATA CALCULATION 
-Annual means files from surface temperature (CAM) have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for each model as well as anomalies to determine the variations in temperature between models during the Pliocene.
-Each model experiment ran for a total of 100 years. In my dataset there are three different CCSM/CESM models code versions  all of which model configurations are  described in Ran et al., 2020. All datasets have been regridded to a regular lat-lon grid to make comparison of models more consistent. In addition all data files were converted to Kelvin. To calculate the anomly for the global mean temperatures the control experiment datasets for all models were includeded in our data. All pliocene experiments in PlioMIP2 were required to use standardized boundary condition datasets for the
-core midPliocene-eoi400 experiment. Whereas, control experiments utilized a standardized boundary condion datasets were set to eoi280 in reference to the Carbon Dioxide levels.Lastly,each experiment consisted of the last 100 years of each experiment for analysis..
+Annual means files from surface temperature (CAM) have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for each model as well as anomalies to determine the variations in temperature between models during the Pliocene.In my dataset there are three different CCSM/CESM models code versions all of which model configurations are  described in Ran et al., 2020. In this  All datasets have been regridded to a regular lat-lon grid to make comparison of models more consistent. In addition all data files were converted to Kelvin. To calculate the difference for the global mean temperatures the control experiment datasets for all models were includeded in our data. All pliocene experiments in PlioMIP2 were required to use standardized boundary condition datasets for the core midPliocene-eoi400 experiment. Whereas, control experiments utilized a standardized boundary condion datasets were set to eoi280 in reference to the Carbon Dioxide levels.Lastly,each experiment consisted of the last 100 years of each experiment for analysis..
 
 # Results and Analysis
 ### Project Notebook via Github
@@ -91,7 +89,7 @@ Figure 11 shows the correlation between the Model Mean surface temperatures. Con
 
 ![12](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_diff_weight.png?raw=true)
 
-
+![13](https://github.com/aliawofford1/aliawofford1.github.io/blob/8ab2294dac0a9a050a9fb8501aef801884a52220/Clim680_project_plots.ipynb)
 The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
 # Summary
 The study showed that the models did match the findings of the Haywood paper in regards to the temperature change. Warm temperature changes were seen to be stronger in the polar regions of the northern and southern hemisphere. However with our correlation we were seeing temperature difference that was coming from the tropics in the eastern and western warm pool tongue. This study also provide insight on the dynamics of determing how much of an influence the eastern and westen warm pool tongue could be a significant contributing factor to warming in the Pliocene history. 
