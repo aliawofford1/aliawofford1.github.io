@@ -35,7 +35,7 @@ A total of 14 models were analyzed in this study. Each model provided a Pliocenc
 
 
 ### PLIOCENCE DATA CALCULATION 
-Annual means files from surface temperature (CAM) have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for each model as well as anomalies to determine the variations in temperature between models during the Pliocene.In my dataset there are three different CCSM/CESM models code versions all of which model configurations are  described in Ran et al., 2020. In this  All datasets have been regridded to a regular lat-lon grid to make comparison of models more consistent. In addition all data files were converted to Kelvin. To calculate the difference for the global mean temperatures the control experiment datasets for all models were includeded in our data. All pliocene experiments in PlioMIP2 were required to use standardized boundary condition datasets for the core midPliocene-eoi400 experiment. Whereas, control experiments utilized a standardized boundary condion datasets were set to eoi280 in reference to the Carbon Dioxide levels.Lastly,each experiment consisted of the last 100 years of each experiment for analysis..
+Annual means files from surface temperature (CAM) have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for each model as well as anomalies to determine the variations in temperature between models during the Pliocene.In my dataset there are three different CCSM/CESM models code versions all of which model configurations are  described in Ran et al., 2020. In this  All datasets have been regridded to a regular lat-lon grid to make comparison of models more consistent. In addition all data files were converted to Kelvin. To calculate the difference for the global mean temperatures the control experiment datasets for all models were includeded in our data. All pliocene experiments in PlioMIP2 were required to use standardized boundary condition datasets for the core midPliocene-eoi400 experiment. Whereas, control experiments utilized a standardized boundary condion datasets were set to eoi280 in reference to the Carbon Dioxide levels.Lastly, the study only focused on the last 100 years of each experiment for analysis..
 
 # Results and Analysis
 ### Project Notebook via Github
@@ -53,24 +53,30 @@ Figure 1 shows the 12 month annual climatology calculated from the mean of all 1
 Figure 2 above shows the 12 month annual climatology calculated from the mean of all 14 control experiments.
 
 ![3](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Difference.png?raw=true)
+
 Figure 3 shows the 12 month annual climatology global mean diference calculated from the difference in the Pliocene experiments- control experiments from all 14 experiments. The yellow areas seen in the polar regions of the northen and southern hemisphere suggest warmer temperatures are more prominent in these regions.
 
 ![4](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Multi_model_ann_mean_SurTemp.png?raw=true)
+
 Figure 4 shows the multi model mean surface temperature change which displayed warmer temperature changes in the polar regions in both hemisphere. Specifically around the North America and Eurasia, and in the Antarctica . Whereas temperature changses were milder in the tropics and equator.
 
 ![5](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Global_Mean_SAT_SCATTER.png?raw=true)
+
 Figure 5 shows the global mean suface temperatures for both the control(blue) and the pliocene experiments(orange). Model experiments were seen to have generally higher global mean surface temperatures than the control group.
 
 ![6](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Global_Mean_tempchange_scatter.png?raw=true)
+
 Figure 6 shows the global mean surface temperature change between models. The gray line defines the limit in which to composite my datasets. Our findings of temperature change showed that compared to each of the contributing from the experiment ranged from 1.7 to 5.2 ◦C.
  
 ### Composites
 
 
 ![7](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_high.png?raw=true)
+
 Figure 7 shows the composite global mean surface temperatures for experiments with a temperature change greater than 3◦. In general the figure showed warmer temperature changes in the polar regions which specifically in the northern and southern hemisphere.
 
 ![8](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_low.png?raw=true)
+
 Figure 8 shows the composite global mean surface temperatures for experiments with a temperature change less than 3◦. In general the figure showed that warmer temperature changes were more geographically isolated in the polar regions. Specifically the warmer temperatures were seen to be the strongest over the Greenland areas in the northern hemisphere and over the Antartic polar regions in the southern hemisphere.
 
 
@@ -94,5 +100,8 @@ The figures from my project notebook are saved in a seperate 'figures' subdirect
 # Summary
 The study showed that the models did match the findings of the Haywood paper in regards to the temperature change. Warm temperature changes were seen to be stronger in the polar regions of the northern and southern hemisphere. However with our correlation we were seeing temperature difference that was coming from the tropics in the eastern and western warm pool tongue. This study also provide insight on the dynamics of determing how much of an influence the eastern and westen warm pool tongue could be a significant contributing factor to warming in the Pliocene history. 
 
+# References
+Haywood, A. M., Dowsett, H. J., Dolan, A. M., Rowley, D., Abe-Ouchi, A., Otto-Bliesner, B., Chandler, M. A., Hunter, S. J., Lunt, D. J., Pound, M., &amp; Salzmann, U. (2016). The Pliocene Model Intercomparison Project (pliomip) phase 2: Scientific  objectives and experimental design. Climate of the Past, 12(3), 663–675. https://doi.org/10.5194/cp-12-663-2016 
 
+Haywood, A. M., Tindall, J. C., Dowsett, H. J., Dolan, A. M., Foley, K. M., Hunter, S. J., Hill, D. J., Chan, W.-L., Abe-Ouchi, A., Stepanek, C., Lohmann, G., Chandan, D., Peltier, W. R., Tan, N., Contoux, C., Ramstein, G., Li, X., Zhang, Z., Guo, C., … Lunt, D. J. (2020). The Pliocene Model Intercomparison Project Phase 2: Large-scale climate features and climate sensitivity. Climate of the Past, 16(6), 2095–2123. https://doi.org/10.5194/cp-16-2095-2020 
 
