@@ -1,13 +1,8 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aliawofford1/aliawofford1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# Comparative Analysis of Pliocene Models Investigating Variations In Global Mean Temperature  
+# A Comparative Analysis of Surface Warming in the Pliocene Model Intercomparison Project Phase 2 (PlioMIP2)
 # Alia Wofford
 # Introduction
-My datasets I chose for my CLIM680 project are the the Pliocene model and control experiments from the Pliocene Model Intercomparison Project (PLIOMP). PLIOMP was  initiated  in  2008  and its core objectives are closly aligned to the US  Geological  Survey  Project  known as  PRISM  (Pliocene  Research  Interpretation  and  SynopticMapping). The purpose of this study is to do a multi model comparative analysis study of Pliocene models by analyzing the changes in the global mean temperatures between models. The PlioMIP project is a cooperative international intiative that analyzes the consistency of model predictions simulating the Pliocene climate. Models involved in the study can then be evaluated  their ability to reproduce climate signals preserved by geological climate archives. The Pliocence climate focuses on a ~∼3.3 to 3 million years ago time scale in which the climate experienced significant warming. The reconstruction and understanding of the mid-Pliocene climate could allow scientists to  identify  the  dominant  components  driving the mid-Pliocene warming derived from the imposed boundary conditions. In my study I specifically, am using surface temperature variables in the various Pliocene experiments and control model simulations to analyze global mean temperature. The overaching goal of this study is conduct a model-data comparison with compiled proxy data to reconstuct the oceanic warming patterns seen in the Pliocene time period.
+For my CLIM680 project are the the Pliocene and control experiments from the Pliocene Model Intercomparison Project. PLIOMP Phase 2 was  initiated  in  2008  and its core objectives are closely aligned to the US  Geological  Survey  Project  known as  PRISM  (Pliocene  Research  Interpretation  and  Synoptic Mapping). The purpose of this study is to do a comparative analysis study of Pliocene models by analyzing the changes in the global mean temperatures between models. The PlioMIP project is a cooperative international intiative that analyzes the consistency of model predictions simulating the Pliocene climate. Models involved in the study can then be evaluated  their ability to reproduce climate signals preserved by geological climate archives. The Pliocence climate focuses on a ~∼3.3 to 3 million years ago time scale in which the climate experienced significant warming. The reconstruction and understanding of the mid-Pliocene climate could allow scientists to  identify  the  dominant  components  driving the mid-Pliocene warming derived from the imposed boundary conditions. In my study I specifically, am using surface temperature variables in the various Pliocene experiments and control model simulations to analyze global mean temperature. The overaching goal of this study is conduct a model-data comparison with compiled proxy data to reconstuct the oceanic warming patterns seen in the Pliocene time period.
 
 
 
@@ -33,8 +28,6 @@ A total of 14 models were analyzed in this study. Each model provided a Pliocenc
 
 
 
-
-### PLIOCENCE DATA CALCULATION 
 Annual means files from surface temperature (CAM) have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for each model as well as anomalies to determine the variations in temperature between models during the Pliocene.In my dataset there are three different CCSM/CESM models code versions all of which model configurations are  described in Ran et al., 2020. In this  All datasets have been regridded to a regular lat-lon grid to make comparison of models more consistent. In addition all data files were converted to Kelvin. To calculate the difference for the global mean temperatures the control experiment datasets for all models were includeded in our data. All pliocene experiments in PlioMIP2 were required to use standardized boundary condition datasets for the core midPliocene-eoi400 experiment. Whereas, control experiments utilized a standardized boundary condion datasets were set to eoi280 in reference to the Carbon Dioxide levels.Lastly, the study only focused on the last 100 years of each experiment for analysis..
 
 # Results and Analysis
@@ -46,11 +39,11 @@ The environment.yml file is shown to define the environment needed to run all co
 
 ![1](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Pliocene.png?raw=true)
 
-Figure 1 shows the 12 month annual climatology calculated from the mean of all 14 experiments.
+Figure 1 shows the 12 month climatology calculated from the mean of all 14 experiments.
 
 ![2](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Control.png?raw=true)
 
-Figure 2 above shows the 12 month annual climatology calculated from the mean of all 14 control experiments.
+Figure 2 above shows the 12 month climatology calculated from the mean of all 14 control experiments.
 
 ![3](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/12_Panel_Monthly_GlobalMean_Difference.png?raw=true)
 
