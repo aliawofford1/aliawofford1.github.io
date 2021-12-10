@@ -90,11 +90,12 @@ Figure 11 shows the correlation between the Model Mean surface temperatures. Con
 
 ![12](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_diff_weight.png?raw=true)
 
-<a href="http://www.something.com"> Something </a>
-!<a href="https://github.com/aliawofford1/aliawofford1.github.io/blob/8ab2294dac0a9a050a9fb8501aef801884a52220/Clim680_project_plots.ipynb"> Notebook </a>
+<a href="https://github.com/aliawofford1/aliawofford1.github.io/blob/8ab2294dac0a9a050a9fb8501aef801884a52220/Clim680_project_plots.ipynb"> Notebook </a>
+
 The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
+
 # Summary
-The study showed that the models did match the findings of the Haywood paper in regards to the temperature change. Warm temperature changes were seen to be stronger in the polar regions of the northern and southern hemisphere. However with our correlation we were seeing temperature difference that was coming from the tropics in the eastern and western warm pool tongue. This study also provide insight on the dynamics of determing how much of an influence the eastern and westen warm pool tongue could be a significant contributing factor to warming in the Pliocene history. 
+The findings of the Haywood paper in regards to the temperature change. In our analysis, the Pliocene model composites showed warm temperature changes that were geographically isolated to the polar regions near Greenland and Antartica. Upon further analysis, the regression of the model mean surface temperature change showed that the warmer temparture changes were stronger over the Eurasia regions and in Anartic contrary to the composites. However, contrary to the regression the correlation revealed that the Pliocene minus Preindustrial global mean showed the most variance in global mean warming coming from model differences in the degree of tropical warming in the Atlantic and Indian Oceans. This study also provided insight to how much tropical warming could be a significant contributing factor in the increased warming that occured in the Pliocene history.
 
 # References
 Haywood, A. M., Dowsett, H. J., Dolan, A. M., Rowley, D., Abe-Ouchi, A., Otto-Bliesner, B., Chandler, M. A., Hunter, S. J., Lunt, D. J., Pound, M., &amp; Salzmann, U. (2016). The Pliocene Model Intercomparison Project (pliomip) phase 2: Scientific  objectives and experimental design. Climate of the Past, 12(3), 663–675. https://doi.org/10.5194/cp-12-663-2016 
