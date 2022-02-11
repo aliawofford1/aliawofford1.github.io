@@ -3,11 +3,11 @@
 # Alia Wofford
 # Introduction
 
-For my CLIM680 project are the the Pliocene and control experiments from the Pliocene Model Intercomparison Project PlioMIP. PlioMIP Phase 2 was  initiated  in  2008  and its core objectives are closely aligned to the US  Geological  Survey  Project  known as  PRISM  (Pliocene  Research  Interpretation  and  Synoptic Mapping). The purpose of this study is to do a comparative analysis study of the Pliocene surface warming patterns simulated by the various climate models that participated in PlioMIP2. Additionally, the models involved in this study will be evaluated on their ability to reproduce climate signals preserved by geological climate archives. The PlioMIP focuses on a time slice of ∼3.2 million years ago in which the climate experienced significant warming. The reconstruction and understanding of the mid-Pliocene climate could allow scientists to  identify  the  dominant  components  driving the mid-Pliocene warming derived from the imposed boundary conditions. All pliocene experiments in PlioMIP2 were required to use standardized boundary condition datasets for the core midPliocene-eoi400 experiment. Whereas, control experiments utilized a standardized boundary condion datasets were set to eoi280 in reference to the Carbon Dioxide levels. In my study specifically, I am plotting surface temperature variables from each of the Pliocene and the control experiments to analyze surface warming in the global mean temperatures. The ultimate goal of this study is conduct a model-data comparison with compiled proxy data of subsurface oceanic warming during the Pliocene.
+For my CLIM680 project are the Pliocene and control experiments from the Pliocene Model Intercomparison Project Phase 2 (PlioMIP2). PlioMIP2 was  initiated  in  2008 and its core objectives are closely aligned to the US  Geological  Survey  Project  known as  PRISM  (Pliocene  Research  Interpretation  and  Synoptic Mapping). The purpose of this study is to do a comparative analysis study of the Pliocene surface warming patterns simulated by the various climate models that participated in PlioMIP2. Additionally, the models involved in this study will be evaluated on their ability to reproduce climate signals preserved by geological climate archives. PlioMIP2 focuses on a time slice ∼3.2 million years ago in which Earth's climate experienced significant warming. The reconstruction and simulation of mid-Pliocene climate will allow scientists to  identify  the  dominant  components  driving the mid-Pliocene warmth. All Pliocene experiments in PlioMIP2 were required to use standardized boundary condition datasets for the core midPliocene-eoi400 experiment. Whereas, control experiments utilized preindustrial- eoi280 boundary condition datasets i.e. modern paleography and preindustrial CO2 and aerosol levels. In my study specifically, I am plotting surface temperature variables from each of the Pliocene and the control experiments to analyze surface warming and the global mean temperatures. The ultimate goal of this study is conduct a model-data comparison with compiled proxy data of subsurface oceanic warming during the Pliocene.
 
 
 # Data and Methods
-A total of 14 global climate models were analyzed in this study. Each model provided a Pliocence experiment and a control experiment. Only the surface temperature have been analyzed in this intial project. The table lists the PlioMIP2 models that were analyzed.
+A total of 14 global climate models were analyzed in this study. Each model provided a Pliocence experiment and a control experiment. Only the surface temperature has been analyzed in this intial project. The table lists the PlioMIP2 models that were analyzed.
 
 | Model Name|
 | --- | --- |
@@ -27,7 +27,7 @@ A total of 14 global climate models were analyzed in this study. Each model prov
 |NorESM_L|
 
 
-Monthly mean output files of surface temperature have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for both the Pliocene and Preindustrial experiments.as well as anomalies to determine the variations in temperature between models during the Pliocene. In my dataset, there are five different models that have modified code versions of CCSM/CESM all the model configurations are  described in Ran et al., 2020. All datasets have been regridded to a regular lat-lon grid to make comparison of models more consistent. In addition all data files were converted to Kelvin. To calculate the difference for the global mean temperatures the control experiments were subtracted from the Pliocene experiment datasets for all models included in our analysis. Lastly, the study only focused on the last 100 years of each experiment for analysis.
+Monthly mean output files of surface temperature have been converted to a 12 month climatology for each model to calculate composites for the global mean temperatures for both the Pliocene and Preindustrial experiments. In my dataset, there are five different models that have modified code versions of CCSM/CESM all the model configurations are  described in Ran et al., 2020. All datasets have been regridded to a regular lat-lon grid to make comparison of models more consistent. In addition all temperature fields were converted to Kelvin. To calculate the difference for the surface temperature fields and the global mean temperatures the control experiments were subtracted from the Pliocene experiment datasets for all models included in our analysis. Lastly, this study only focuses on the last 100 years of each experiment for analysis.
 
 # Results and Analysis
 
@@ -59,27 +59,27 @@ Figure 5 shows the global mean suface temperatures for both the Preindustrial co
 
 ![6](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Global_Mean_tempchange_scatter.png?raw=true)
 
-Figure 6 shows the global mean surface temperature change between the Pliocene and Preindustrial experiments. The gray line defines the limit upon which the high versus low global warming composite are based. The Pliocene minus Preindustrial Control warming ranges from 1.7 to 5.2 ◦C.
+Figure 6 shows the global mean surface temperature change between the Pliocene and Preindustrial experiments. The gray line defines the limit upon which the high versus low global warming composites are based. The Pliocene minus Preindustrial Control warming ranges from 1.7 to 5.2 ◦C.
  
 ### Composites
 
 
 ![7](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_high.png?raw=true)
 
-Figure 7 shows the composite global mean surface temperatures for models with a temperature change greater than 3◦. On average these models have larger warmer temperature changes in the polar regions which specifically in the northern and southern hemisphere.
+Figure 7 shows the composite global mean surface temperatures for models with a temperature change greater than 3◦C. On average these models have larger temperature changes in the polar regions which specifically in the northern and southern hemisphere.
 
 ![8](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_low.png?raw=true)
 
-Figure 8 shows the composite global mean surface temperatures for experiments with a temperature change less than 3◦. In general the figure showed that warmer temperature changes were more geographically isolated in the polar regions. Specifically the warmer temperatures were seen to be the strongest over the Greenland areas in the northern hemisphere and over the Antartic polar regions in the southern hemisphere.
+Figure 8 shows the composite global mean surface temperatures for experiments with a temperature change less than 3◦C. In general the figure show that temperature increases are more geographically isolated in the polar regions. Specifically the warmer temperatures were seen to be the strongest over the Greenland areas in the northern hemisphere and over the Antartic polar regions in the southern hemisphere.
 
 
 ![9](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/CompGlobalmean_surf_temp_diff.png?raw=true)
 
-Figure 9 shows the composite global mean surface temperatures for the Pliocene and Preindustrial control difference. In general the figure showed that all models showed agreement with warmer temperature changes that were geograpically isolated in the polar regions. Specifically the warmer temperatures were seen to be the strongest over the Greenland areas in the northern hemisphere and over the Antartic polar regions in the southern hemisphere.
+Figure 9 shows the composite global mean surface temperatures for the Pliocene and Preindustrial control difference. In general the figure shows that all models showed agreement with warmer temperature changes that were geograpically isolated in the polar regions.
 
 ![10](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Regression_Model_Mean_SurfaceTemperature_Change.png?raw=true)
 
-Figure 10 shows the regression of the model mean surface temperature change. The warmer temperatures are seen to be stronger over the Eurasia regions and in Anarctic where as the composites are showing more warming in the northern hemisphere.
+Figure 10 shows the regression across the 14 PlioMIP2 models of the mean surface temperature change. The results of this regression analysis are largely consistent with the results seen in the precessing composite analysis.
 
 
 ![11](https://github.com/aliawofford1/aliawofford1.github.io/blob/main/docs/assets/Correlation_between_ModelMean_SurfaceTemperatures.png?raw=true)
